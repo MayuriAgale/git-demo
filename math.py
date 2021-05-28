@@ -1,6 +1,6 @@
 #Add Implimentation
 def add(x,y):
-    pass
+    return x+y
 
 #Substract Implimentation
 def subtract(x,y):
